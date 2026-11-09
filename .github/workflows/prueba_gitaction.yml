@@ -8,4 +8,4 @@ jobs:
     steps:
     - name: Escribir hola
       run:
-        echo: "Hola"
+        echo "Hola"
